@@ -1,2 +1,2 @@
-# Sample-E-Cell-website-clone
-## This project is cloned solely for the purpose of studying and understanding the UI/UX design and other functionalities in a website.
+# Sample-E-Cell-website-task
+## This task involves cloning the E-cell Website to solely understand and study the UI/UX design and other functionalities of the original site.
